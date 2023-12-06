@@ -1,5 +1,4 @@
-# FOSSassignment2
-Container with most water
+# Container with most water
 Problem Statement:
 Given an integer array height representing the heights of n vertical lines, the task is to find two lines that, together with the x-axis, form a container that holds the most water. The function max_area() calculates and returns the maximum amount of water the container can store without slanting it.
 
